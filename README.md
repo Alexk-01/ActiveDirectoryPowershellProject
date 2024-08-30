@@ -13,22 +13,22 @@ This project involves setting up a Windows Server 2019 Domain Controller (DC) th
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b> 
 - <b>Windows Server 2019</b>
 <h2>Program walk-through:</h2>
 
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://imgur.com/a/rPT87FD"/>
+Project Diagram: <br/>
+<img src="https://i.imgur.com/Z0Y6hP3.png"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configured the IP address for Internal NIC (Domain Controller serves as a default gateway):  <br/>
+<img src="https://i.imgur.com/k2awhwD.png"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Installed Active Directory Domain Services (AD DS): <br/>
+<img src="https://i.imgur.com/2cp9Kis.png"/>
 <br />
 <br />
 Confirm your selection:  <br/>
