@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project involves setting up a Windows Server 2019 Domain Controller (DC) that manages an internal network. The DC handles RAS/NAT and DHCP services, connecting to both the internet and an internal client running Windows 10. A key feature of this project is the automation of adding 1,000 users to Active Directory (AD) using a PowerShell script from Github.
 <br />
 
 
@@ -20,7 +20,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/rPT87FD"/>
 <br />
 <br />
 Select the disk:  <br/>
