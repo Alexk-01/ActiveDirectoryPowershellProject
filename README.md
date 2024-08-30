@@ -31,20 +31,40 @@ Installed Active Directory Domain Services (AD DS): <br/>
 <img src="https://i.imgur.com/2cp9Kis.png"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Created a Domain:  <br/>
+<img src="https://i.imgur.com/VEOY3yF.png"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Created a Domain admin account :  <br/>
+<img src="https://i.imgur.com/nPSFAP4.png"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configured Remote Access Server (RAS) & Network Address Translation (NAT) which creates a private virtual network that accesses the internet through the Domain Controller for the Client machine:  <br/>
+<img src="https://i.imgur.com/OoAyNM3.png"/>
+ 
+ <img src="https://i.imgur.com/jfw3br6.png"/>
+ 
+ <img src="https://i.imgur.com/WnTHId7.png"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configured DHCP service, which allows the Windows 10 client machine to get an IP address to access the internet:  <br/>
+<img src="https://i.imgur.com/vz7PRoB.png"/> 
+ Created a Domain admin account :  <br/>
+<img src="https://i.imgur.com/nPSFAP4.png"/>
+<br />
+<br />
+ Created a Domain admin account :  <br/>
+<img src="https://i.imgur.com/nPSFAP4.png"/>
+<br />
+<br />
+ Created a Domain admin account :  <br/>
+<img src="https://i.imgur.com/nPSFAP4.png"/>
+<br />
+<br />
+ Created a Domain admin account :  <br/>
+<img src="https://i.imgur.com/nPSFAP4.png"/>
+<br />
+<br />
 </p>
 
 <!--
