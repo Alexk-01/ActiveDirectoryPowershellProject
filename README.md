@@ -49,22 +49,30 @@ Configured Remote Access Server (RAS) & Network Address Translation (NAT) which 
 <br />
 Configured DHCP service, which allows the Windows 10 client machine to get an IP address to access the internet:  <br/>
 <img src="https://i.imgur.com/vz7PRoB.png"/> 
- Created a Domain admin account :  <br/>
-<img src="https://i.imgur.com/nPSFAP4.png"/>
+<img src="https://i.imgur.com/cFD7ccl.png"/>
 <br />
 <br />
- Created a Domain admin account :  <br/>
-<img src="https://i.imgur.com/nPSFAP4.png"/>
+ 	Downloaded a powershell script from Github :  <br/>
+<img src="https://i.imgur.com/YvdMtHr.png"/>
+
 <br />
 <br />
- Created a Domain admin account :  <br/>
-<img src="https://i.imgur.com/nPSFAP4.png"/>
+ Enabled the execution of all scripts  :  <br/>
+<img src="https://i.imgur.com/8lKAQwe.png"/>
 <br />
 <br />
- Created a Domain admin account :  <br/>
-<img src="https://i.imgur.com/nPSFAP4.png"/>
+ 	This PowerShell script is designed to automate the creation of Active Directory (AD) users. It reads a list of names from a file, splits each name into first and last names, and then uses these details to create a new AD user for each entry. :  <br/>
+<img src="https://i.imgur.com/Zk9D1BV.png"/>
 <br />
 <br />
+<img src="https://i.imgur.com/yEn61sa.png"/>
+<br />
+<br />
+Testing configurations on client machine  :  <br/>
+<img src="https://i.imgur.com/huMAyU6.png"/>
+<br />
+<br />
+<img src="https://i.imgur.com/CScphL9.png"/>
 </p>
 
 <!--
