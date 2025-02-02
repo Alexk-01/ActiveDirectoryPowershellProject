@@ -20,7 +20,7 @@ This project involves setting up a Windows Server 2019 Domain Controller (DC) th
 
 <p align="center">
 Project Diagram: <br/>
-<img src="https://i.imgur.com/Z0Y6hP3.png"/>
+<img src="https://raw.githubusercontent.com/Alexk-01/ActiveDirectoryPowershellProject/refs/heads/main/ActiveDirectoryPowershellProject/Screenshot%202024-08-25%20100203.png"/>
 <br />
 <br />
 Configured the IP address for Internal NIC (Domain Controller serves as a default gateway):  <br/>
