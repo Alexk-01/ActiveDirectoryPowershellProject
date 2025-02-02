@@ -6,11 +6,6 @@ This project involves setting up a Windows Server 2019 Domain Controller (DC) th
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Virtual Box</b>
-
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> 
@@ -23,7 +18,7 @@ Project Diagram: <br/>
 <img src="https://raw.githubusercontent.com/Alexk-01/ActiveDirectoryPowershellProject/refs/heads/main/ActiveDirectoryPowershellProject/Screenshot%202024-08-25%20100203.png"/>
 <br />
 <br />
-Configured the IP address for Internal NIC (Domain Controller serves as a default gateway):  <br/>
+Configured the IP address for Internal NIC:  <br/>
 <img src="https://raw.githubusercontent.com/Alexk-01/ActiveDirectoryPowershellProject/refs/heads/main/ActiveDirectoryPowershellProject/Screenshot%202025-02-01%20095623.png"/>
 <br />
 <br />
