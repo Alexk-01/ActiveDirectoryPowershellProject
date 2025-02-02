@@ -39,26 +39,16 @@ Configured Remote Access Server (RAS) & Network Address Translation (NAT) which 
  
 <br />
 <br />
-Configured DHCP service, which allows the Windows 10 client machine to get an IP address to access the internet:  <br/>
+Configured DHCP service & IP address range, which allows the Windows 10 client machine to get an IP address to access the internet:  <br/>
 <img src="https://raw.githubusercontent.com/Alexk-01/ActiveDirectoryPowershellProject/refs/heads/main/ActiveDirectoryPowershellProject/Screenshot%202025-02-01%20112102.png"/> 
-<img src="https://i.imgur.com/cFD7ccl.png"/>
+<img src="https://raw.githubusercontent.com/Alexk-01/ActiveDirectoryPowershellProject/refs/heads/main/ActiveDirectoryPowershellProject/Screenshot%202025-02-01%20113212.png"/>
 <br />
 <br />
- 	Downloaded a powershell script from Github :  <br/>
-<img src="https://i.imgur.com/YvdMtHr.png"/>
-
+ 
+This PowerShell script is designed to automate the creation of Active Directory (AD) users. It reads a list of names from a file, splits each name into first and last names, and then uses these details to create a new AD user for each entry. :  <br/>
+<img src="https://raw.githubusercontent.com/Alexk-01/ActiveDirectoryPowershellProject/refs/heads/main/ActiveDirectoryPowershellProject/Screenshot%202025-02-01%20124314.png"/>
 <br />
-<br />
- Enabled the execution of all scripts  :  <br/>
-<img src="https://i.imgur.com/8lKAQwe.png"/>
-<br />
-<br />
- 	This PowerShell script is designed to automate the creation of Active Directory (AD) users. It reads a list of names from a file, splits each name into first and last names, and then uses these details to create a new AD user for each entry. :  <br/>
-<img src="https://i.imgur.com/Zk9D1BV.png"/>
-<br />
-<br />
-<img src="https://i.imgur.com/yEn61sa.png"/>
-<br />
+<img src="https://raw.githubusercontent.com/Alexk-01/ActiveDirectoryPowershellProject/refs/heads/main/ActiveDirectoryPowershellProject/Screenshot%202025-02-01%20131459.png"/>
 <br />
 Testing configurations on client machine  :  <br/>
 <img src="https://i.imgur.com/huMAyU6.png"/>
