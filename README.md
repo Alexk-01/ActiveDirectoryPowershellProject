@@ -51,9 +51,6 @@ This PowerShell script is designed to automate the creation of Active Directory 
 <img src="https://raw.githubusercontent.com/Alexk-01/ActiveDirectoryPowershellProject/refs/heads/main/ActiveDirectoryPowershellProject/Screenshot%202025-02-01%20131459.png"/>
 <br />
 Testing configurations on client machine  :  <br/>
-<img src="https://i.imgur.com/huMAyU6.png"/>
-<br />
-<br />
 <img src="https://i.imgur.com/CScphL9.png"/>
 </p>
 
