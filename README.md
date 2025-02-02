@@ -29,19 +29,18 @@ Installed Active Directory Domain Services and created a domain: (AD DS): <br/>
 <br />
 <br />
 Created a Domain admin account :  <br/>
-<img src="https://i.imgur.com/nPSFAP4.png"/>
+<img src="https://raw.githubusercontent.com/Alexk-01/ActiveDirectoryPowershellProject/refs/heads/main/ActiveDirectoryPowershellProject/Screenshot%202025-02-01%20103703.png"/>
 <br />
 <br />
 Configured Remote Access Server (RAS) & Network Address Translation (NAT) which creates a private virtual network that accesses the internet through the Domain Controller for the Client machine:  <br/>
-<img src="https://i.imgur.com/OoAyNM3.png"/>
+<img src="https://raw.githubusercontent.com/Alexk-01/ActiveDirectoryPowershellProject/refs/heads/main/ActiveDirectoryPowershellProject/Screenshot%202025-02-01%20105516.png"/>
  
- <img src="https://i.imgur.com/jfw3br6.png"/>
+ <img src="https://raw.githubusercontent.com/Alexk-01/ActiveDirectoryPowershellProject/refs/heads/main/ActiveDirectoryPowershellProject/Screenshot%202025-02-01%20111044.png"/>
  
- <img src="https://i.imgur.com/WnTHId7.png"/>
 <br />
 <br />
 Configured DHCP service, which allows the Windows 10 client machine to get an IP address to access the internet:  <br/>
-<img src="https://i.imgur.com/vz7PRoB.png"/> 
+<img src="https://raw.githubusercontent.com/Alexk-01/ActiveDirectoryPowershellProject/refs/heads/main/ActiveDirectoryPowershellProject/Screenshot%202025-02-01%20112102.png"/> 
 <img src="https://i.imgur.com/cFD7ccl.png"/>
 <br />
 <br />
