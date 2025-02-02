@@ -22,12 +22,10 @@ Configured the IP address for Internal NIC:  <br/>
 <img src="https://raw.githubusercontent.com/Alexk-01/ActiveDirectoryPowershellProject/refs/heads/main/ActiveDirectoryPowershellProject/Screenshot%202025-02-01%20095623.png"/>
 <br />
 <br />
-Installed Active Directory Domain Services (AD DS): <br/>
-<img src="https://i.imgur.com/2cp9Kis.png"/>
-<br />
-<br />
-Created a Domain:  <br/>
-<img src="https://i.imgur.com/VEOY3yF.png"/>
+Installed Active Directory Domain Services and created a domain: (AD DS): <br/>
+<img src="https://raw.githubusercontent.com/Alexk-01/ActiveDirectoryPowershellProject/refs/heads/main/ActiveDirectoryPowershellProject/Screenshot%202025-02-01%20100621.png"/>
+ <br />
+<img src="https://raw.githubusercontent.com/Alexk-01/ActiveDirectoryPowershellProject/refs/heads/main/ActiveDirectoryPowershellProject/Screenshot%202025-02-01%20103108.png"/>
 <br />
 <br />
 Created a Domain admin account :  <br/>
