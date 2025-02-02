@@ -24,7 +24,7 @@ Project Diagram: <br/>
 <br />
 <br />
 Configured the IP address for Internal NIC (Domain Controller serves as a default gateway):  <br/>
-<img src="https://i.imgur.com/k2awhwD.png"/>
+<img src="https://raw.githubusercontent.com/Alexk-01/ActiveDirectoryPowershellProject/refs/heads/main/ActiveDirectoryPowershellProject/Screenshot%202025-02-01%20095623.png"/>
 <br />
 <br />
 Installed Active Directory Domain Services (AD DS): <br/>
